@@ -7,4 +7,4 @@
   store datas of both DebitCard and CreditCard
 * Working Buttons including a display button and delete button
 
-<img src="bankgui.png" width="50%" height="50%">
+<img src="bankgui.png" width="100%" height="100%">
