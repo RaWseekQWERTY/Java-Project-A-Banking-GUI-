@@ -7,4 +7,4 @@
   store datas of both DebitCard and CreditCard
 * Working Buttons including a display button and delete button
 
-bankgui.png
+![Alt text](URL "bankgui.png")
